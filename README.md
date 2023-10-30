@@ -1,6 +1,6 @@
 # 🍁 KrisVerse
 
-**` Digital Craftsman (Developer/Creator) `**
+**` Digital Engineer (Developer/Creator) `**
 
 I'm a passionate developer based in Singapore building my own version of the digital world. I like to learn, build, and explore new technologies.
 
